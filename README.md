@@ -10,7 +10,8 @@ First of all, Python and Pip will be needed to run this project. Then:
 2.  Create virualenv: `python3 -m virtualenv venv`
 3.  Run virtualenv: `source venv/bin/activate`
 4.  Install _requirements_: `python -m pip install -r requirements.txt`
-5.  Start server: `python manage.py runserver`
+5.  Migrate: `python manage.py migrate`
+6.  Start server: `python manage.py runserver`
 
 ### Docs:
 
