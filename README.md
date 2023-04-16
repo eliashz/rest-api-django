@@ -4,11 +4,13 @@ Rest API using Python with Django.
 
 ### Instrucctions:
 
-    1. Clone project: `git clone https://github.com/eliashz/rest-api-django.git`
-    2. Create virualenv: `python3 -m virtualenv venv`
-    3. Run virtualenv: `source venv/bin/activate`
-    4. Install *requirements*: `pip install --upgrade pip`
-    5. Start server: `python manage.py runserver`
+First of all, Python and Pip will be needed to run this project:
+
+1.  Clone project: `git clone https://github.com/eliashz/rest-api-django.git`
+2.  Create virualenv: `python3 -m virtualenv venv`
+3.  Run virtualenv: `source venv/bin/activate`
+4.  Install _requirements_: `python -m pip install -r requirements.txt`
+5.  Start server: `python manage.py runserver`
 
 ### Docs:
 
